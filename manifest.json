@@ -1,0 +1,19 @@
+{
+  "name": "SkyTrack v2 — Real-time Flight Tracker",
+  "short_name": "SkyTrack",
+  "description": "World-class real-time global flight tracking with live radar, airport boards, and instant search.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060918",
+  "theme_color": "#060918",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><path d='M58 30L36 22L28 4H22L26 22L8 26L4 20H0L4 32L0 44H4L8 38L26 42L22 60H28L36 42L58 34C60.2 34 62 32.2 62 32C62 31.8 60.2 30 58 30Z' fill='%2300d4ff'/></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["travel", "navigation", "utilities"]
+}
